@@ -1,0 +1,3 @@
+Veces que aparece "documento":  2
+Número de palabras: 20
+Número de caracteres: 117

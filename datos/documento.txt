@@ -1,0 +1,2 @@
+Hola, esto es una prueba de un documento. 
+En este documento habrá palabras que se repetirán, además de varias líneas.
