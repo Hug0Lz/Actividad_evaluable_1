@@ -1,1 +1,1 @@
-Hola z.
+Hola! Éste es un mensaje con acentos. Este archivo se convierte quitando símbolos de puntuación, sin embargo, las letras acentuadas se conservan quitando sus símbolos diacríticos.
