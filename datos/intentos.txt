@@ -1,0 +1,9 @@
+Número aleatorio generado: 53.
+ Intento: 1  número del usuario: 30  (su número es menor).
+ Intento: 2  número del usuario: 70  (su número es mayor).
+ Intento: 3  número del usuario: 50  (su número es menor).
+ Intento: 4  número del usuario: 60  (su número es mayor).
+ Intento: 5  número del usuario: 55  (su número es mayor).
+ Intento: 6  número del usuario: 52  (su número es menor).
+ Intento: 7  número del usuario: 53  El usuario ha acertado.   
+Fin de la partida. Número de intentos: 7.
