@@ -99,8 +99,6 @@ public class CifradoCesar {
     }
 
     public static String leeMensajeFichero(String ruta) {
-        Scanner teclado = new Scanner(System.in);
-        int clave;
         StringBuilder mensaje = new StringBuilder();
         String linea;
         try (BufferedReader br = new BufferedReader(new FileReader(ruta))) {
