@@ -48,33 +48,4 @@ public class JuegoAdivinanzas {
 
     }
 
-   /* private static String leeFicheroIntentos(String ruta) {
-        StringBuilder contenido = new StringBuilder();
-        String linea;
-        try (BufferedReader br = new BufferedReader(new FileReader(ruta))) {
-            while ((linea = br.readLine()) != null) {
-                contenido.append(linea);
-            }
-            br.close();
-        } catch (IOException e) {
-            System.out.println("Error al leer el fichero de intentos");
-        }
-
-
-        return contenido.toString();
-    }
-
-    private static boolean escribeFicheroIntentos(String ruta, String contenido) {
-        try (FileWriter fw = new FileWriter(ruta)) {
-            System.out.println("CONTENIDO: " + leeFicheroIntentos(ruta));
-            fw.append(leeFicheroIntentos(ruta));
-            fw.append(contenido);
-
-        } catch (IOException e) {
-            System.out.println("Error al escribir el fichero de intentos.");
-        }
-
-        return true;
-    }*/
-
 }
